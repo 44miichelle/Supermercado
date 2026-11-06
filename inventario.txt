@@ -1,4 +1,4 @@
 STOCK EN CATEGORIAS
 
-Frutas y verduras: 50
-Congelados: 25
+Frutas y verduras: 100
+Congelados: 50
